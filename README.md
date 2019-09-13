@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+CopyRight
 This repository is for showing how Git and GitHub work
 
 ## Purpose
