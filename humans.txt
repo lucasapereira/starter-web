@@ -8,7 +8,7 @@ Copyrightied 2015
     LUCAS CBMDF TWITITE <name> -- <role> -- <twitter>
 
 # THANKS
-
+to alguem 
     <name>
 
 # TECHNOLOGY COLOPHON
